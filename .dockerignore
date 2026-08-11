@@ -1,0 +1,6 @@
+qdrant_data/
+init-db/
+docker-compose.yml
+Dockerfile
+.git
+*.sql
